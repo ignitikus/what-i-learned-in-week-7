@@ -23,7 +23,9 @@ Note: Create empty array and push strings in it. Don't forget to `return`.
 
 Note: Use `return` outside loop to return default value 
 
-## Cripples Bastards and Broken Things
+## [Cripples Bastards and Broken Things](https://github.com/ignitikus/cripples-bastards-and-broken-things)
+
+Learned how to debug someone else's code. 
 
 ## CodeWars
 
